@@ -541,5 +541,6 @@ public class TablutBoardState extends BoardState {
             System.out.println("MOVE COMPLETED " + m.toPrettyString() + "\n\n");
         }
         System.out.println();
+        
     }
 }
